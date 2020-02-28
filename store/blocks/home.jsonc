@@ -84,12 +84,12 @@
   },
   "slider-layout#home": {
     "children": [
-    "image#example-1",
-    "image#example-2",
-    "image#example-3",
-    "image#example-4",
-    "image#example-5",
-    "image#example-6"
+    "image#brand1",
+    "image#brand2",
+    "image#brand3",
+    "image#brand4",
+    "image#brand5",
+    "image#brand6"
   ],
     "props": {
       "autoplay": {
